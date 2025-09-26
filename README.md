@@ -1,4 +1,4 @@
-# Horóscopo Sarcástico
+## Horóscopo Sarcástico
 Um horóscopo criativo e divertido para treinar minhas habilidades.
 
 
@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/504a9b75-7d48-4d33-a883-361eaad6cf29
 ## Ver projeto
 [Acesse aqui](https://angela-rocha.github.io/horoscopo_sarcastico/)
 
-# 🔮 Um Horóscopo Mal-Humorado
+## 🔮 Um Horóscopo Mal-Humorado
 
 Um projeto divertido em **HTML, CSS e JavaScript** que gera previsões nada animadoras para cada signo do zodíaco.  
 Em vez de mensagens motivacionais, você recebe respostas debochadas e bem-humoradas. 😒✨
