@@ -1,5 +1,5 @@
 ## Horóscopo Sarcástico
-Um horóscopo criativo e divertido para treinar minhas habilidades.
+Um horóscopo criativo e divertido para treinar minhas habilidades
 
 
 https://github.com/user-attachments/assets/504a9b75-7d48-4d33-a883-361eaad6cf29
